@@ -69,7 +69,7 @@
 
 # About the project
 
-[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/home)
+[![Site preview](/public/social-image.png)](https://natrahashim.github.io/profile)
 
 
 ## Technology stack 🛠️
