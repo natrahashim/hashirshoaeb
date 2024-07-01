@@ -10,7 +10,7 @@
     <a href="https://hashirshoaeb.github.io/home">hashirshoaeb.github.io/home</a>
     <br />
     <br />
-    <a href="https://hashirshoaeb.github.io">About Me</a>
+    <a href="https://natrahashim.github.io">About Me</a>
   </p>
 </p>
 
